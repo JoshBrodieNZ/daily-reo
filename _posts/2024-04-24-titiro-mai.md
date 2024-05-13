@@ -1,3 +1,5 @@
+Titiro mai means: Look in my direction (of speaker).
+
 The difference between yesterday's post and today's is the addition of the directional particle 'mai'. The four directional particles in te reo Māori are:
 - mai - towards the speaker
 - atu - away from the speaker
