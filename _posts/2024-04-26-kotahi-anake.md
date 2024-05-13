@@ -1,3 +1,7 @@
+---
+title: Kotahi anake (and some notes on each word alone)
+---
+
 Kotahi anake means: Only one.
 
 Kotahi is the form of the word tahi/one that you typically use when you're saying there is one of something in particular:

@@ -1,3 +1,7 @@
+---
+title: Kua rite koe?  (and the perfect tense marker)
+---
+
 Kua rite koe? means: Are you ready.
 
 The tense marker "kua" is a preposed verbal particle which marks the [perfect](https://en.wikipedia.org/wiki/Perfect_(grammar)) tense. It's often taught as being used for any sentence that in English would use "have" or "has".

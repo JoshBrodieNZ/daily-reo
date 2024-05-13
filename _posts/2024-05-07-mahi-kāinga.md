@@ -1,3 +1,7 @@
+---
+title: Mahi kāinga (and other kinds of mahi)
+---
+
 Mahi kāinga means: Homework.
 
 Lots of different words are formed by adding a specifying word after 'mahi'. My mahi kāinga today is to learn a few of them:
