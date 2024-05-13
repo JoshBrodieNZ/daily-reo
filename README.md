@@ -7,7 +7,7 @@ If anyone pays enough attention to this that you feel motivated to add correctio
 <ul>
   {% for post in site.posts %}
     <li>
-      <a href="{{ post.permalink }}">{{ post.title }}</a>
+      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
       <p>{{ post.excerpt }}</p>
     </li>
   {% endfor %}
