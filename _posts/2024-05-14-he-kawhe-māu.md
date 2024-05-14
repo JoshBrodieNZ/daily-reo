@@ -4,7 +4,7 @@ title: He kawhe māu? (and N-M possessive prepositions)
 
 He kawhe māu? means: Do you want a coffee?.
 
-Māu is an example of an [M-class possessive](https://kupu.maori.nz/possession/n-m-possession) in the a category, using the singular first person suffix '-u' ([mentioned in the post about 'koe'](https://joshbrodienz.github.io/daily-reo/2024/05/11/koe.html)). That's quite a lot of words to say it's the word you use to say that the thing you're talking about will/might belong to the person you're talking to in the future.
+Māu is an example of an [M-class possessive](https://kupu.maori.nz/possession/n-m-possession) in the a category, using the singular second person suffix '-u' ([mentioned in the post about 'koe'](https://joshbrodienz.github.io/daily-reo/2024/05/11/koe.html)). That's quite a lot of words to say it's the word you use to say that the thing you're talking about will/might belong to the person you're talking to in the future.
 
 The possessive prepositions nā/nō relate to past or present possession, while mā/mō relate to future possession in the a/o categories respectively. By appending the singular pronoun forms mentioned in the post about 'koe' you end up with:
 - 1st person: nāku, nōku, māku, mōku
