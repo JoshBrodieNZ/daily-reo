@@ -6,7 +6,7 @@ tags: [daily reo, particle, postposed periphery, periphery, directional particle
 
 Titiro mai means: Look in my direction (of speaker).
 
-The difference between [yesterday's post]({% post_url daily-reo/2024-04-23-titiro %}) and today's is the addition of the directional particle 'mai'. The four directional particles in te reo Māori are:
+The difference between [yesterday's post]({% post_url /daily-reo/2024-04-23-titiro %}) and today's is the addition of the directional particle 'mai'. The four directional particles in te reo Māori are:
 - mai - towards the speaker
 - atu - away from the speaker
 - ake - upwards
