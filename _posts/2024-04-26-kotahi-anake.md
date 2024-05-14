@@ -26,6 +26,6 @@ There are some situations where you use simply 'tahi', such as if it is preceded
 This form is also used when you are explicitly counting, focused on the process of counting:
 - Ka tahi, ka rua, ka toru... - One, two, three...
 
-Anake is a postposted particle (like mai) whose purpose is to indicate that the phrase it stands within is is an exhaustive list of the entities being referred to, equivalent to 'only' in English:
+Anake is a postposted particle (like [mai]({% post_url 2024-04-24-titiro-mai %})) whose purpose is to indicate that the phrase it stands within is is an exhaustive list of the entities being referred to, equivalent to 'only' in English:
 - He tōtara anake ngā rākau o tērā uru rākau - Tōtaras are the only trees of that grove, the trees of that grove are all tōtaras.
 - Kāore rātou i haere ki Pōneke anake, engari ki ngā tāone katoa o te Upoko-o-te-Ika - They (3 or more) didn't only go to Wellington, but to all the towns of the south end of the North Island.
