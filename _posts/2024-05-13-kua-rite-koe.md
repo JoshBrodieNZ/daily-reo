@@ -1,5 +1,7 @@
 ---
 title: Kua rite koe?  (and the perfect tense marker)
+layout: post
+tags: [daily reo, kua, particle, preposed periphery, tense marker]
 ---
 
 Kua rite koe? means: Are you ready.

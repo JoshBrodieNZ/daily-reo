@@ -1,5 +1,7 @@
 ---
 title: Titiro mai (and directional postposed particles)
+layout: post
+tags: [daily reo, particle, postposed periphery, periphery]
 ---
 
 Titiro mai means: Look in my direction (of speaker).

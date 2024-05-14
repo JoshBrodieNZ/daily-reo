@@ -1,5 +1,7 @@
 ---
 title: Kotahi anake (and some notes on each word alone)
+layout: post
+tags: [daily reo, particle, postposed periphery, anake, numbers]
 ---
 
 Kotahi anake means: Only one.

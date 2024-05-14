@@ -1,5 +1,7 @@
 ---
 title: Mahia te mahi (and similar passive commands ft. homophony)
+layout: post
+tags: [daily reo, imperative, passive]
 ---
 
 Mahia te mahi means: Do the work.

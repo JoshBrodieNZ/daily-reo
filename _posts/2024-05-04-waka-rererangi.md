@@ -1,5 +1,7 @@
 ---
 title: Waka rererangi (short post)
+layout: post
+tags: [daily reo]
 ---
 
 Waka rererangi means: Aeroplane.

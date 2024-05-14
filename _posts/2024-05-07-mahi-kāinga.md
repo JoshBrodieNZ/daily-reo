@@ -1,5 +1,7 @@
 ---
 title: Mahi kāinga (and other kinds of mahi)
+layout: post
+tags: [daily reo]
 ---
 
 Mahi kāinga means: Homework.

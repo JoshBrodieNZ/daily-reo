@@ -1,5 +1,7 @@
 ---
 title: He kawhe māu? (and N-M possessive prepositions)
+layout: post
+tags: [daily reo, n-m possession, preposition, particle, pronoun]
 ---
 
 He kawhe māu? means: Do you want a coffee?.
