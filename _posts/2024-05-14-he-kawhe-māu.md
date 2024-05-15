@@ -4,7 +4,7 @@ layout: post
 tags: [daily reo, n-m possession, preposition, particle, pronoun]
 ---
 
-He kawhe māu? means: Do you want a coffee?.
+He kawhe māu? means: Do you want a coffee?
 
 Māu is an example of an [M-class possessive](https://kupu.maori.nz/possession/n-m-possession) in the a category, using the singular second person suffix '-u' ([mentioned in the post about 'koe']({{ site.baseurl }}{% post_url 2024-05-11-koe %})). That's quite a lot of words to say it's the word you use to say that the thing you're talking about will/might belong to the person you're talking to in the future.
 
