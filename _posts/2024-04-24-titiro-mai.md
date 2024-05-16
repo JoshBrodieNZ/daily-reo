@@ -28,7 +28,9 @@ I'm sure Daily Te Reo Māori will use more of these particles in future, so I'll
 'Mai' here is a postposted directional particle, which means it fits into the part of speech called the "postposted periphery". Māori sentences are made up of phrases and each phrase has three sections:
 - [Preposed periphery] [Nucleus] [Postposted periphery]
 - [Ki] [runga] [ake] - Upwards
+
 The nucleus is the part of the phrase which contains base words such as verbs, nouns, adjectives, numbers. The peripheries contain particles that add more context or specificity to the phrase, or glue things together.
+
 So the sentence "e haere mai ana te ope rā ki runga i te marae"/"That group over there is coming onto the marae" is made up of the following four phrases, broken down into nucleus/peripheries:
 - [E] [haere] [mai ana]
 - [te] [ope] [rā]
