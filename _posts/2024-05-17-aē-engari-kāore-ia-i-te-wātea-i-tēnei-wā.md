@@ -1,7 +1,7 @@
 ---
 title: Āe, engari kāore ia i te wātea i tēnei wā (and a detailed grammatical breakdown)
 layout: post
-tags: [daily reo, interjection]
+tags: [daily reo, particle, postposed periphery, periphery, clause, phrase, preposed periphery]
 ---
 
 Āe, engari kāore ia i te wātea i tēnei wā means: Yes, but unfortunately he/she is not available at this time.
