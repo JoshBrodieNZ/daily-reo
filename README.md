@@ -8,7 +8,7 @@ If anyone pays enough attention to this that you feel motivated to add correctio
   {% for post in site.posts %}
     <li>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }}</p>
+      <p>{{ post.excerpt }} ({{ post.date }}))</p>
     </li>
   {% endfor %}
 </ul>
