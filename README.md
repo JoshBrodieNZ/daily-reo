@@ -4,13 +4,14 @@ Sources for the grammatical content and example sentences are generally Ray Harl
 
 If anyone pays enough attention to this that you feel motivated to add corrections, you can create issues [here](https://github.com/JoshBrodieNZ/daily-reo/issues).
 
-<ul>
-  {% for post in site.posts %}
-    <li>
+{% for post in site.posts %}
+  <div class='post'>
+    <h1 class='post-title'>
       <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
-      <p>{{ post.excerpt }} 
-        ({{ post.date | date_to_long_string }})
-      </p>
-    </li>
-  {% endfor %}
-</ul>
+    </h1>
+    <span class='post-date'>{{ post.date | date_to_long_string }}</span>
+    <p>
+      {{ post.excerpt }} 
+    </p>
+  </div>
+{% endfor %}
