@@ -5,7 +5,7 @@ tags: [daily reo, verb modifier]
 ---
 Kaiwhakahaere means: Manager / boss / administrator (the one who makes things go).
 
-I mentioned the prefix [kai-<thing>]({{ site.baseurl }}{% post_url 2024-05-23-manuhiri %}) to mean "the person who does the thing" and the prefix [whaka-]({{ site.baseurl }}{% post_url 2024-05-21-me-tūtaki-tāua-ki-te-pātaka-kōrero %}) (including whakahaere) in earlier posts, so I'm going to use today's post as a prompt to investigate something I've seen before but haven't learned to use myself, which is 'haere' as a verb modifier. Te Aka notes that haere "indicates gradual change or progressive increase in a state when following a verb."
+I mentioned the prefix [kai]({{ site.baseurl }}{% post_url 2024-05-23-manuhiri %})- to mean "the person who does the thing" and the prefix [whaka]({{ site.baseurl }}{% post_url 2024-05-21-me-tūtaki-tāua-ki-te-pātaka-kōrero %})- (including whakahaere) in earlier posts, so I'm going to use today's post as a prompt to investigate something I've seen before but haven't learned to use myself, which is 'haere' as a verb modifier. Te Aka notes that haere "indicates gradual change or progressive increase in a state when following a verb."
 
 So, for example:
 - Kua pau ngā moni - The money is all gone.
