@@ -7,9 +7,8 @@ If anyone pays enough attention to this that you feel motivated to add correctio
 {% for post in site.posts %}
   <div class='post'>
     <h1 class='post-title'>
-      <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      <a href="{{ post.date | date_to_long_string }} - {{ post.url | relative_url }}">{{ post.title }}</a>
     </h1>
-    <span class='post-date'>{{ post.date | date_to_long_string }}</span>
     <p>
       {{ post.excerpt }} 
     </p>
