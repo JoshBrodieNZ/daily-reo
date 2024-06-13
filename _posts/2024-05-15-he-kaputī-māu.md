@@ -1,7 +1,7 @@
 ---
-title: He kaputī māu? (and temporary, intended or actual possession)
+title: He kaputī māu? (and temporary, intended or actual possession as well as the interrogative 'wai')
 layout: post
-tags: [daily reo, n-m possession, preposition, particle, pronoun, interrogative]
+tags: [daily reo, n-m possession, preposition, particle, pronoun, interrogative, wai]
 ---
 
 He kaputī māu? means: Do you want a cup of tea?
