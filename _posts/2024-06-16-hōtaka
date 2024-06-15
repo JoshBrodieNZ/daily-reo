@@ -1,0 +1,37 @@
+---
+title: Hōtaka (and revision on phrases continued)
+layout: post
+tags: [daily reo, phrase]
+---
+Hōtaka means: Programme, series.
+
+I'm using these posts as my hōtaka hokinga mahara (programme of revision).
+
+Today I'm going to continue yesterday's exercise of just writing a bunch of sentences to highlight and discuss the phrases that make them up.
+
+As mentioned in an earlier most, Māori sentences are made up of phrases and each phrase has three sections:
+- [Preposed periphery] [Nucleus] [Postposted periphery]
+- [Ki] [runga] [ake] - Upwards
+
+The nucleus is the part of the phrase which contains base words such as verbs, nouns, adjectives, numbers. The peripheries contain particles that add more context or specificity to the phrase, or glue things together.
+
+Another way this is sometimes described is:
+- [Phrase-type Marker] [Lexical Head] [Modifiers]
+- [Ka] [haere] [atu] - Predicate phrase indicating that the subject moved away or left.
+
+A key difference between these two ways of analysing phrases is where adjectives/modifiers sit. In the first structure the phrase "He tangata pai rawa atu" (A very good person) would be broken down like:
+- [Preposed periphery] [Nucleus] [Postposted periphery]
+- [He] [tangata pai] [rawa atu]
+
+This is because "rawa" and "atu" are both particles, while "pai" is a base and so can occupy the nucleus. Additional bases added to the nucleus each qualify the word preceding them.
+
+With the other approach to considering phrases, the phrase "He tangata pai rawa atu" (A very good person) would be broken down like:
+- [Phrase-type Marker] [Lexical Head] [Modifiers]
+- [He] [tangata] [pai rawa atu]
+
+In this view of the phrase, the lexical head is the core base which the subsequent words modify. For the most part, the model that works best for me is [Preposed periphery] [Nucleus] [Postposted periphery] (Harlow) more than [Phrase-type Marker] [Lexical Head] [Modifiers] (Bauer) but it's good to be able to consider both approaches.
+
+With that covered, here's more sentences:
+- [Kua whiwhi moni] [ia] -- This sentence is made up of two phrases. The verb phrase "Kua whiwhi moni" is introduced by the perfect verbal marker "Kua" to indicate an action having been completed or a change in state. The verb in this sentence is "whiwhi" (to obtain, get, acquire) but the object "moni" (money) has been moved into the nucleus of the phrase through the process of "object incorporation" to effectively make a new verb "to acquire money". Object incorporation was referenced in a [previous post]({{ site.baseurl }}{% post_url 2024-05-28-karere %}). The subject of the sentence is the noun phrase "ia" (he/she/singular they) so we're saying "he has got (some) money".
+- [Whakarongo] [ki ngā manu] -- The first phrase in this sentence is the verb phrase "whakarongo" (listen) which acts as the predicate. Because this is a command, it doesn't have to get introduced by a particle unless it's a very short word. The sentence as a whole doesn't require a subject because "you" as the listener are implied to be the subject of the command. The second phrase is a prepositional phrase acting as a comment of place to specify the direction or target of the command "listen". It is introduced with the preposition "ki" which can generally be considered to mean "to". The object here is "ngā manu" (the birds) so the command is "listen to the birds".
+- [Kei a koe] [aku kī?] -- The first phrase in this sentence is a prepositional phrase using "kei" which introduces predicate phrases that state where the subject is located. This is an example of a sentence with two particles in the preposed periphery, because it then uses the personal article "a" which is used here because "i", "ki", "kei" and "hei" can't precede pronouns or personal nouns directly. The pronoun used is "koe" so this predicate phrase states that the upcoming subject of the sentence is "located with you". The second phrase is a noun phrase with a possessive determiner 'aku' (mine, plural object). This is the neutral or informal form of this determiner in that it doesn't engage with a/o categories of possession. So "aku kī" is "my keys" and the sentence as a whole is asking "do you have my keys?" or "are my keys with you?"
