@@ -1,0 +1,24 @@
+---
+title: Kaha (and stative/neuter terminology)
+layout: post
+tags: [daily reo, stative]
+---
+Kaha means: Strong, able, courageous.
+
+Kaha is a word describing the state of "being strong". It is referred to by some sources as a "stative verb".
+
+In an [earlier post]({{ site.baseurl }}{% post_url 2024-04-27-harikoa %}) I mentioned that "there’s some disagreements between grammars on whether statives are a single class of words or a number of subgroups with slightly different rules" and that "the distinction between these is decreasing over time."
+
+The Reed Reference Grammar (Bauer) argues that neuter verbs should be considered distinct from state intransitives. For the purposes of describing the different groups of words, they are identified by an example word that belongs to that class, so we have the "mutu" (be cropped, amputated, truncated) class, the "ora" (to be alive, well, safe) class and the "haere" (to go, depart, travel) class. This book gives a history of the terminology around these verbs:
+
+- Maunsell's grammar (1842) groups the "mutu", "ora" and "haere" classes of verb as being "neuter" which was the term at the time for what we now call "intransitive". However he noted that this grouping was somewhat tentative because verbs in the "haere" class can be made passive in te reo Māori.
+- Williams (1862) calls the "mutu" class "participles" and the "ora" class "adjectives" and notes that these two classes both behave like neuter verbs/intransitives. However, he also highlights that the "haere" class can be passive and establishes a division between the intransitive verbs which comes to be asssociated with the labels "intransitive" and "neuter".
+- Biggs (1969) refers to the "mutu" class and the "ora" class as "statives". He groups the "haere" class into group of bases he calls "universals" and defines universals as "any word which may be used passively".
+- Hohepa (1969) separates Biggs' statives into "stative verbs" and "stative adjectives" which brings back the distinction Williams made. He doesn't refer to the "haere" class.
+- Hooper (1982) argues that "stative" is a misleading term for the "mutu" class because the properties normally expected of "stative" words are not present in the "mutu" class. Bauer adopts this convention and refers to the "mutu" class as "neuter", the "ora" class as "state intransitive" and the "haere" class as "action intransitive". However, Bauer notes that this distinction is breaking down and that the intuitions of native speakers by the time of that grammar's writing do not align with the rules found in earlier texts.
+
+Harlow (2001) later discusses neuter verbs (equating these with 'statives'). His neuter class includes "mau", "oti" and "riro" which map to Bauer's "neuter intransitives". The "haere" class remains "intransitive verbs" for Harlow. He also discusses adjectives, noting that some authors group these into neuter verbs, but treats them as a separate part of speech. Harlow's adjectives include "iti", "pai" and "roa" which align with Bauer's state intransitives (the group that the prompt word 'kaha' belongs to). 
+
+So it seems like the most up to date grammar textbook I have maintains the distinction first established by Williams, though the terminology has changed so that the "mutu" class is "neuter verbs", the "ora" class is "adjectives" (although they can be used with any verbal particle as if they were verbs) and the "haere" class are "intransitives". 
+
+I'm trying to align my kupu wetereo (grammar words) with te reo Māori, so "neuter verbs" are "tūmahi oti", "adjectives" are "tūāhua" and "intransitives" are "tūmahi poro".
