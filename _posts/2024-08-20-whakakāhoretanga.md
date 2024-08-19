@@ -35,7 +35,7 @@ Passive sentences follow the same form:
 - I kainga te hamupeka e au (The hamburger was eaten by me)/Kāore te hamupeka i kainga e au (The hamburger was not eaten by me). 
 
 ### Verbal commands
-As a subset of verbal sentences, commands in the form "Haere, e hoa!" (Go, friend!) are negated using the negative word "kaua" as in "Kaua e haere, e hoa!" (Don't go, friend!) or "Kaua hei haere, e hoa!" (same translation, less common particle).
+As a subset of verbal sentences, commands in the form "Haere, e hoa!" (Go, friend!) are negated using the negative word "kaua" as in "Kaua e haere, e hoa!" (Don't go, friend!) or "Kaua hei haere, e hoa!" (same translation, less common particle). Similarly, commands using "kia" as in "Kia tere" (be quick) are also negated using "kaua" as in "Kaua e tere".
 
 ### Verbal Suggestions
 Phrases suggesting something should happen such as "Me karakia tātou" (we should karakia) can be negated in a couple of ways. One is to dismiss the notion that we *should* perform a specific action, as in "we do not have to karakia" and the other is to explicitly suggest that we should *not* karakia.
@@ -55,13 +55,24 @@ When the nucleus of the predicate is an adjective, as in "He makariri rawa te r�
 
 When the subject of the sentence is a possessive determiner such as in "He kaputī tāku" (I have a cup of tea) the sentence is negated using the negative word "kāore" and the determiner becomes plural as in "Kāore āku kaputī" (I have no cups of tea).
 
+When the subject of the sentence is a possessive phrase such as in "He kaputī ā Mere" (Mere has a cup of tea) it loses the macron but keeps "he" to become "Kāore he kaputī a Mere".
+
 ## 'Kei' Sentences
 Kei sentences are discussed in an [earlier post]({{ site.baseurl }}{% post_url 2024-05-30-tari %}).
 They are negated using the negative word "kāore". 
 
 "Kei roto i te pouaka te ngeru" (the cat is inside the box) is negated as "Kāore te ngeru i roto i te pouaka" (the cat is not inside the box).
 
-Past/present sentences take the pūhono (joiner) "i" while future sentences take the pūhono (joiner) "ki".
+Past/present sentences take the pūhono (joiner) "i" while future sentences can optionally take the pūhono (joiner) "ki".
+
+- "Kei roto i te pouaka te ngeru [āpōpō]" (The cat *will be* in the box [tomorrow])
+- "Hei roto i te pouaka te ngeru [āpōpō]" (The cat *will be* in the box [tomorrow])
+- "Kāore te ngeru i roto i te pouaka [āpōpō]" (The cat *will not be* in the box [tomorrow])
+- "Kāore te ngeru ki roto i te pouaka [āpōpō]" (The cat *will not be* in the box [tomorrow])
+
+## 'Hei' Predicates
+If a predicate is introduced using "hei" to mean that it's for a particular purpose, it's negated using the negative word "ehara".
+"Hei tapahi mīti tēnei maripi" (This knife is for cutting meat) is negated as "Ehara hei tapahi mīti tēnei maripi" (This knife is not for cutting up meat).
 
 ## N/M Possessives (and actor emphatic)
 N/M possessives are discussed in an [earlier post]({{ site.baseurl }}{% post_url 2024-05-14-he-kawhe-māu %}).
@@ -69,6 +80,6 @@ They are negated using the negative word "ehara".
 
 "Māku te kaputī" (the cup of tea is for me) is negated as "Ehara māku te kaputī" (the cup of tea is not for me).
 
-Similar, the related actor/agent emphatic construction is negated in the same way.
+If the subject is a pronoun is in "Nō Ākarana koe" (you are from Auckland) it can be placed between "ehara" and the predicate as in "Ehara koe nō Ākarana".
 
-"Nāku te kaputī i inu" (I drank the cup of tea) is negated as "Ehara nāku te kaputī i inu".
+Similary, the related actor/agent emphatic construction is negated in the same way. "Nā Hata te kaputī i inu" (Hata drank the cup of tea) is negated as "Ehara nā Hara te kaputī i inu".
