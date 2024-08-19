@@ -16,7 +16,7 @@ If you wanted to emphasis that Hōne is the chief, rather than someone else, you
 
 "Ehara ko Hōne te rangatira".
 
-## Verbal sentences
+## Verbal Sentences
 Verbal sentences are negated with the negative word "kāore" and by changing the tense marker depending on the tense of the sentence being negated, as in the following sentence (translated using simplified meanings of each tense marker):
 - Ka kai au (I will eat)/Kāore au e kai (I will not eat).
 - Kei te kai au (I am eating)/Kāore au i te kai (I am not eating).
@@ -25,10 +25,19 @@ Verbal sentences are negated with the negative word "kāore" and by changing the
 - I te kai au (I was eating)/Kāore au i te kai (I was not eating) [This is the same as the negation of "kei te"]
 - I kai au (I ate)/Kāore au i kai (I did not eat)
 
+### Passive Verbal Sentences
+Passive sentences follow the same form:
+- Ka kainga te hamupeka e au (The hamburger will be eaten by me)/Kāore te hamupeka e kainga e au (The hamburger will not be eaten by me).
+- Kei te kainga te hamupeka e au (The hamburger is being eaten by me)/Kāore te hamupeka i te kainga e au (The hamburger is not being eaten by me).
+- E kainga ana te hamupeka e au (The hamburger is being eaten by me)/Kāore te hamupeka e kainga ana e au (The hamburger is not being eaten by me).
+- Kua kainga te kamupeka e au (The hamburger has been eaten by me)/Kāore anō te haumpeka kia kainga e au (The hamburger has not yet been eaten by me).
+- I te kainga te hamupeka e au (The hamburger was being eaten by me)/Kāore te hamupeka i te kainga e au (The hamburger was not being eaten by me).
+- I kainga te hamupeka e au (The hamburger was eaten by me)/Kāore te hamupeka i kainga e au (The hamburger was not eaten by me). 
+
 ### Verbal commands
 As a subset of verbal sentences, commands in the form "Haere, e hoa!" (Go, friend!) are negated using the negative word "kaua" as in "Kaua e haere, e hoa!" (Don't go, friend!) or "Kaua hei haere, e hoa!" (same translation, less common particle).
 
-### Verbal suggestions
+### Verbal Suggestions
 Phrases suggesting something should happen such as "Me karakia tātou" (we should karakia) can be negated in a couple of ways. One is to dismiss the notion that we *should* perform a specific action, as in "we do not have to karakia" and the other is to explicitly suggest that we should *not* karakia.
 
 To suggest that we should not karakia, we would use the negative word "kaua" as in "Kaua tātou e karakia".
@@ -45,3 +54,21 @@ When the nucleus of the predicate is a noun, as in "He rangatira a Hōne" (Hōne
 When the nucleus of the predicate is an adjective, as in "He makariri rawa te rā" (the day is too cold) it is negated using the negative form of the verbal sentence so we would treat "He makariri rawa te rā" as if it were "Kei te makariri rawa te rā" and negate it using the rules for verbal sentences with "Kāore te rā i te makariri rawa".
 
 When the subject of the sentence is a possessive determiner such as in "He kaputī tāku" (I have a cup of tea) the sentence is negated using the negative word "kāore" and the determiner becomes plural as in "Kāore āku kaputī" (I have no cups of tea).
+
+## 'Kei' Sentences
+Kei sentences are discussed in an [earlier post]({{ site.baseurl }}{% post_url 2024-05-30-tari %}).
+They are negated using the negative word "kāore". 
+
+"Kei roto i te pouaka te ngeru" (the cat is inside the box) is negated as "Kāore te ngeru i roto i te pouaka" (the cat is not inside the box).
+
+Past/present sentences take the pūhono (joiner) "i" while future sentences take the pūhono (joiner) "ki".
+
+## N/M Possessives (and actor emphatic)
+N/M possessives are discussed in an [earlier post]({{ site.baseurl }}{% post_url 2024-05-14-he-kawhe-māu %}).
+They are negated using the negative word "ehara".
+
+"Māku te kaputī" (the cup of tea is for me) is negated as "Ehara māku te kaputī" (the cup of tea is not for me).
+
+Similar, the related actor/agent emphatic construction is negated in the same way.
+
+"Nāku te kaputī i inu" (I drank the cup of tea) is negated as "Ehara nāku te kaputī i inu".
