@@ -45,7 +45,7 @@ To suggest that we should not karakia, we would use the negative word "kaua" as 
 To suggest that "we should karakia" is not true you could use "ehara i te mea me karakia tātou" (it is not the case that we should karakia), or phrases with a similar meaning.
 
 ## 'He' Sentences
-He sentences are discussed in an [earlier post]({{ site.baseurl }}{% post_url 2024-05-28-karere %}) and expanded on in [another]({{ site.baseurl }}{% post_url 2024-05-29-kaimahi.md %}).
+He sentences are discussed in an [earlier post]({{ site.baseurl }}{% post_url 2024-05-28-karere %}) and expanded on in [another]({{ site.baseurl }}{% post_url 2024-05-29-kaimahi %}).
 
 When the sentence consists of one phrase as in "He taniwha" (there are/exist taniwha) it is negated using the negative word "kāore" as in "Kāore he taniwha" (there are no taniwha [existing]). If the existential phrase has an additional comment detailing place using either "kei" or "i" that comment is introduced by "i" in the negation, so "he taniwha kei toro i tērā ana" (there are taniwha in that cave) becomes "Kāore he taniwha i roto i tērā ana" (there are no taniwha in that cave).
 
