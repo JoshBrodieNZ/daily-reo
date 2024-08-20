@@ -74,6 +74,12 @@ Past/present sentences take the pūhono (joiner) "i" while future sentences can 
 If a predicate is introduced using "hei" to mean that it's for a particular purpose, it's negated using the negative word "ehara".
 "Hei tapahi mīti tēnei maripi" (This knife is for cutting meat) is negated as "Ehara hei tapahi mīti tēnei maripi" (This knife is not for cutting up meat).
 
+## "Ki te... ka" Conditionals
+Sentences which take the structure illustrated by "Ki te kōrero rūkahu tāua, ka mōhio rāua" (If we tell lies, they will know) are negated using the negative word "kore" for the first clause or "kāore" for the second (verbal) clause:
+- "Ki te kore tāua e kōrero rūkahu, ka mōhio rāua" (If we don't tell lies, they will know)
+- "Ki te kōrero rūkahu tāua, kāore rāua e mōhio" (If we tell lies, they will not know)
+- "Ki te kore tāua e kōrero rūkahu, kāore rāua e mōhio" (If we don't tell lies, they will not know)
+
 ## N/M Possessives (and actor emphatic)
 N/M possessives are discussed in an [earlier post]({{ site.baseurl }}{% post_url 2024-05-14-he-kawhe-māu %}).
 They are negated using the negative word "ehara".
