@@ -3,6 +3,7 @@ title: Whakakāhoretanga (negating sentences)
 layout: post
 tags: [daily reo, whakakāhoretanga]
 ---
+Whakakāhoretanga is the negation of sentences.
 
 Rather than focusing posts on the daily reo bot, I'm going to start just posting something when I want to deep dive into a topic for my notes. In this case, we've moved to rumaki reo (full immersion) and I've found the thing I improvise most on is negating sentences (by just throwing a casual kaore/ehara at the start of the sentence and calling it a day) which is going to reinforce bad habits, so I'm going to make sure I remember the right way to negate all the sentence types I know.
 
